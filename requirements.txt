@@ -1,0 +1,9 @@
+pettingzoo[classic]
+numpy
+pygame
+pillow
+openai
+pjtools
+matplotlib
+py-sudoku
+mazelib
